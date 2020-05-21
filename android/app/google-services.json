@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "402760475597",
+    "firebase_url": "https://yuwapro-eea83.firebaseio.com",
+    "project_id": "yuwapro-eea83",
+    "storage_bucket": "yuwapro-eea83.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402760475597:android:1021c88fb9bb0a4154da84",
+        "android_client_info": {
+          "package_name": "com.admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402760475597-fjbkcgqdi250f9qutv69iikn0f5l4rvt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.admin",
+            "certificate_hash": "aa43273963c149aa1d1b16431878bdca7a3ba649"
+          }
+        },
+        {
+          "client_id": "402760475597-vkf3v2vbkko9ck0jvahu1a0l7ejfq1pr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArlkx_87QxnXsmAC4-vHPtxWyXoWS67AM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402760475597-vkf3v2vbkko9ck0jvahu1a0l7ejfq1pr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
